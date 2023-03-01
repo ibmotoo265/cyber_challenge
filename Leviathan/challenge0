@@ -13,3 +13,26 @@ cat /etc/leviathan_pass/leviathan2. >>mEh5PNl10e
 ltrace ./prinfile /etc/leviathan_pass/leviathan3 >>Q0G8j4sakn
 touch /tmp/ib/sor\ space
 ln -s /etc/leviathan_pass/leviathan3 /tmp/ib/sor
+
+#level 3 to level 4
+
+ltrace ./prinfile /etc/leviathan_pass/leviathan4
+enter "snlprintf"
+cat /etc/leviathan_pass/leviathan4 >>>AgvropI4OA
+
+#level 4 to level 5
+cd .trash; ./bin and convert bin to ascii >>EKKlTF1Xqs
+
+#level 5 to level 6
+ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log >> YZ55XPVk2l
+
+#level 6 to level 7
+brute force
+###
+for a in {0000..9999}
+do
+~/leviathan6 $i
+done
+####
+then cat /etc/leviathan_pass/leviathan7 >>8GpZ5f8Hze
+ 
